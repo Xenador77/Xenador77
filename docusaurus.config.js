@@ -7,10 +7,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Xenador77',
-  tagline: 'Aspiring embedded developer',
+  tagline: 'ISC2 Certified in Cybersecurity (2024)',
   url: 'https://xenador77.github.io/Xenador77/',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
